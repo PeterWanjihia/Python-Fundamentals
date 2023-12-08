@@ -4,7 +4,10 @@
             # i)mass(kg)
             # ii)velocity(m/s)
             
-# Outputs => momentum
+# Outputs =>
+            # momentum
+            # kinetic energy
+            
 
 mass  = float (input('Enter mass of body:'))
 velocity = float (input('Enter the velocity of body:'))
